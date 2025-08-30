@@ -78,8 +78,8 @@ kodingku/
 ### Instalasi
 ```bash
 # Clone repository
-git clone https://github.com/kodingku/kodingku-platform.git
-cd kodingku-platform
+git clone https://github.com/fajarjulyana/kodingku.com.git
+cd kodingku.com
 
 # Install dependencies
 npm install
